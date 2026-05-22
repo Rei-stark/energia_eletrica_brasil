@@ -1,0 +1,19 @@
+# Núcleo de Tratamento e Matemática
+pandas
+numpy
+
+# Visualização de Dados Estática
+matplotlib
+seaborn
+
+# Visualização Dinâmica e Dashboards
+plotly
+ipywidgets
+
+# Modelagem Preditiva e Estatística
+scikit-learn
+scipy
+
+# Ecossistema do Notebook
+jupyter
+ipython
